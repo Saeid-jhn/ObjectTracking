@@ -9,9 +9,7 @@ Source: https://www.pyimagesearch.com/
 2. imutils
 3. OpenCV
 
-### Run
-
-Run this code:
+### Run:
 
 python ball_tracking.py --video ball_tracking_example.mp4
 
