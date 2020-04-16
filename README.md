@@ -1,6 +1,7 @@
 # ObjectTracking
 
-Object Tracking based on Color detection
+Object Tracking based on Color detection (modified for py3)
+Source: https://www.pyimagesearch.com/
 
 ## Requirement Packages
 1. Python 3
@@ -11,3 +12,4 @@ Object Tracking based on Color detection
 Run this code:
 
 python ball_tracking.py --video ball_tracking_example.mp4
+
