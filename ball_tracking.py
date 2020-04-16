@@ -84,7 +84,7 @@ while True:
 	pts.appendleft(center)
 
 	# loop over the set of tracked points
-	for i in xrange(1, len(pts)):
+	for i in range(1, len(pts)):
 		# if either of the tracked points are None, ignore
 		# them
 		if pts[i - 1] is None or pts[i] is None:
