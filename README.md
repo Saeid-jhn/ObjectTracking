@@ -3,8 +3,9 @@
 Object Tracking based on Color detection
 
 ## Requirement Packages
-1. imutils
-2. OpenCV
+1. Python 3
+2. imutils
+3. OpenCV
 
 ### Run
 Run this code:
