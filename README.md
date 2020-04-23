@@ -11,7 +11,7 @@ The following packages are required to run the project:
 * imutils 0.5.3
 * OpenCV 4.2.0
 
-1. Install python from the [link]](https://www.python.org/downloads/) or use [Anaconda](https://www.anaconda.com/distribution/).
+1. Install python from the [www.python.org](https://www.python.org/downloads/) or use [Anaconda](https://www.anaconda.com/distribution/).
 2. Install [imutils](https://pypi.org/project/imutils/) using Pip or Conda:
     * Pip `pip install imutils`
     * Conda `conda install -c conda-forge imutils`
