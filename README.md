@@ -33,4 +33,4 @@ For questions, please contact Adrian Rosebrock in [pyimagesearch](https://www.py
 OpenCV Track Object Movement by Adrian Rosebrock on September 21, 2015 [[link]](https://www.pyimagesearch.com/2015/09/21/opencv-track-object-movement/)
 
 ## License ##
-This project is distributed under [Apache License 2.0](https://github.com/Saeid-jhn/Digital-Image-Watermarking/blob/master/LICENSE)
+This project is distributed under [MIT License](https://github.com/Saeid-jhn/ObjectTracking/blob/master/LICENSE)
